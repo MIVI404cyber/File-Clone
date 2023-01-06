@@ -14,4 +14,4 @@
 - python boost.py
 # Single Command
 - pkg install git ; rm -rf F-clone-it ; git clone https://github.com/MIVI404cyber/booster_pro ; cd booster_pro ; python boost.py
-Thanks All (💝)
+# Thanks All (💝)
