@@ -4,10 +4,10 @@ import os,platform,time
 
 bitt=platform.architecture()[0]
 
-if bitt=="32bit":
+if bitt=="64bit":
     os.system('clear');print('[!] Your Device is 64 bit');time.sleep(1);print('\n\n[!] Your Python Version :');time.sleep(1);os.system('python --version')
     time.sleep(2)
-    import B32.main
+    import B64.main
 
 else:
 
@@ -15,5 +15,5 @@ else:
 
 #---------------------------------------------------------#
 #                    THIS TOOL OWNED BY
-#                  •              MR.MIVI             •
+#                  •       MR.MIVI     •
 #---------------------------------------------------------#
